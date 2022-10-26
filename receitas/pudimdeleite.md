@@ -1,14 +1,14 @@
 # Pudim de leite condensado
 
-##Para o pudim
+## Para o pudim
 
-###Ingredientes
+### Ingredientes
 
-    1 lata de leite condensado
-    4 ovos
-    2 ½ xícaras (chá) de leite
+    - 1 lata de leite condensado
+    - 4 ovos
+    - 2 ½ xícaras (chá) de leite
 
-###Modo de preparo
+### Modo de preparo
 
 1. Preaqueça o forno a 200 ºC (temperatura média).
 
@@ -21,14 +21,14 @@
 5. Para desenformar, passe a base da forma sobre a chama do fogão aceso, apenas para soltar a calda. Cubra a forma com um prato com borda alta e vire de uma só vez. Deixe toda a calda escorrer sobre o pudim e sirva a seguir.
 
 
-##Para o caramelo
+## Para o caramelo
 
-###Ingredientes
+### Ingredientes
 
-    1 xícara (chá) de açúcar
-    ⅓ de xícara (chá) de água fervente
+    - 1 xícara (chá) de açúcar
+    - ⅓ de xícara (chá) de água fervente
 
-###Modo de preparo
+### Modo de preparo
 
 1. Você vai precisar de uma fôrma redonda, com furo no meio, de 22 cm de diâmetro. Leve uma chaleira com 3 xícaras (chá) de água ao fogo médio – ela vai ser usada para fazer a calda e assar o pudim em banho-maria.
 
